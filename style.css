@@ -1,0 +1,32 @@
+.navbar{
+  background-color: #0d6efd;
+}
+.image{
+   height: 650px;
+
+}
+.beast{
+  background-color: #00b1d5;
+  color: #e1447b; 
+  font-size: 50px;
+  text-align: center;
+}
+
+.color{
+  background-color: #434647;
+  color:#e6e6e6
+}
+.ur{color:#e1447b
+   }
+ginger{
+    font-size: 50px;
+
+}
+
+body {
+  background-repeat: no-repeat;
+  background-size:100%;
+}
+.home {
+text-align:center;
+}
