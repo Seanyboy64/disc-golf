@@ -1,3 +1,8 @@
+.center{
+  margin-left:10px;
+  margin-right: 10px;
+  text-align: center;
+}
 .navbar{
   background-color: #0d6efd;
 }
@@ -29,6 +34,8 @@ body {
 }
 .home {
 text-align:center;
+  margin-left: 33%;
+  margin-right:33%;
 }
 .pad{padding-left: 34.3%;
     
@@ -42,4 +49,7 @@ text-align:center;
 .size{
   height: 850px;
 
+}
+.zie{
+ height: 30%;
 }
